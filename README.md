@@ -7,3 +7,6 @@
 1. [简单的实现推荐系统的召回模型和排序模型，其中召回模型使用协同过滤算法，排序模型使用gbdt+lr算法](./cf_gbdt_lr/)
 	- 使用的数据为ml-100k的数据，data_process.py为数据处理脚本, gbdt_lr.py为gbdt和lr的排序模型的训练脚本, cf_gbdt_lr_prdict.py为融合ALS和gbdt_lr整体的预测，其中ALS为召回模型。
 	- 案例来源： [wuxinping1992/cf_gbdt_lr](https://github.com/wuxinping1992/cf_gbdt_lr)
+1. [ALS_Lightfm-关注隐式反馈-xingwudao](./learning-to-rank-with-implicit-matrix-master/)
+	- 关注隐式反馈，探索了一些隐式反馈做推荐的方法。代码对应博客：[为什么一定要重视隐式反馈？](https://mp.weixin.qq.com/s/lidie27y4obx4St3uHb8CA)
+	- 案例来源：[xingwudao/learning-to-rank-with-implicit-matrix](https://github.com/xingwudao/learning-to-rank-with-implicit-matrix)
