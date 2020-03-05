@@ -10,3 +10,5 @@
 1. [ALS_Lightfm-关注隐式反馈-xingwudao](./learning-to-rank-with-implicit-matrix-master/)
 	- 关注隐式反馈，探索了一些隐式反馈做推荐的方法。代码对应博客：[为什么一定要重视隐式反馈？](https://mp.weixin.qq.com/s/lidie27y4obx4St3uHb8CA)
 	- 案例来源：[xingwudao/learning-to-rank-with-implicit-matrix](https://github.com/xingwudao/learning-to-rank-with-implicit-matrix)
+1. [FM（Factorization Machines）实践](./FM)
+	- [FM（Factorization Machines）的理论与实践 - 小孩不笨的文章 - 知乎](https://zhuanlan.zhihu.com/p/50426292)
