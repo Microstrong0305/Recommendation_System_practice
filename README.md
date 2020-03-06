@@ -12,3 +12,4 @@
 	- 案例来源：[xingwudao/learning-to-rank-with-implicit-matrix](https://github.com/xingwudao/learning-to-rank-with-implicit-matrix)
 1. [FM（Factorization Machines）实践](./FM)
 	- [FM（Factorization Machines）的理论与实践 - 小孩不笨的文章 - 知乎](https://zhuanlan.zhihu.com/p/50426292)
+	- 本文使用的数据是movielens-100k，数据包括u.item，u.user，ua.base及ua.test。 | [GitHub](https://github.com/LLSean/data-mining)
