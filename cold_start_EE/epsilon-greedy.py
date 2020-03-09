@@ -40,5 +40,5 @@ print("total_reward=" + str(total_reward))
 '''
 Reference:
 [1] Multi-Armed Bandit: epsilon-greedy - 冯伟的文章 - 知乎，地址：https://zhuanlan.zhihu.com/p/32335683 
-[2] 推荐系统遇上深度学习(十二)--推荐系统中的EE问题及基本Bandit算法，地址：https://mp.weixin.qq.com/s/UXQF34PadhUsAU3U8XA2nw
+[2] 推荐系统遇上深度学习(十二)--推荐系统中的EE问题及基本Bandit算法，地址：https://mp.weixin.qq.com/s/Xv3XvMkIeRPYY9KG5qafow
 '''
