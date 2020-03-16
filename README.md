@@ -17,4 +17,5 @@
 	- [《推荐系统算法实践》，黄美灵著，第7章因子分解机](./rs_huangmeiling)
 1. [LightFM练习]()
 	- [How to build a Movie Recommender System in Python using LightFm](https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b) | [GitHub](https://github.com/amkurian/movie-recommendation-system)
+	- [How to Build a Scalable Recommender System for an e-commerce with LightFM in python](https://towardsdatascience.com/if-you-cant-measure-it-you-can-t-improve-it-5c059014faad) | [AI前线翻译](https://mp.weixin.qq.com/s/ss9UlDU9lYokS-EDrPnOxQ) | [GitHub-code](https://github.com/nxs5899/Recommender-System-LightFM)
 
