@@ -15,6 +15,7 @@
 	- [FM（Factorization Machines）的理论与实践 - 小孩不笨的文章 - 知乎](https://zhuanlan.zhihu.com/p/50426292)
 		- 本文使用的数据是movielens-100k，数据包括u.item，u.user，ua.base及ua.test。 | [GitHub](https://github.com/LLSean/data-mining)
 	- [《推荐系统算法实践》，黄美灵著，第7章因子分解机](./rs_huangmeiling)
+	- [MovieLen20M-FM-U2I-I2i-Faiss](https://github.com/yrwanziqi/MovieLen20M-FM-U2I-I2i-Faiss)
 1. [LightFM练习]()
 	- [How to build a Movie Recommender System in Python using LightFm](https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b) | [GitHub](https://github.com/amkurian/movie-recommendation-system)
 	- [How to Build a Scalable Recommender System for an e-commerce with LightFM in python](https://towardsdatascience.com/if-you-cant-measure-it-you-can-t-improve-it-5c059014faad) | [AI前线翻译](https://mp.weixin.qq.com/s/ss9UlDU9lYokS-EDrPnOxQ) | [GitHub-code](https://github.com/nxs5899/Recommender-System-LightFM)
