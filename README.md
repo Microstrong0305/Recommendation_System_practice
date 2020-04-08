@@ -19,4 +19,6 @@
 1. [LightFM练习]()
 	- [How to build a Movie Recommender System in Python using LightFm](https://towardsdatascience.com/how-to-build-a-movie-recommender-system-in-python-using-lightfm-8fa49d7cbe3b) | [GitHub](https://github.com/amkurian/movie-recommendation-system)
 	- [How to Build a Scalable Recommender System for an e-commerce with LightFM in python](https://towardsdatascience.com/if-you-cant-measure-it-you-can-t-improve-it-5c059014faad) | [AI前线翻译](https://mp.weixin.qq.com/s/ss9UlDU9lYokS-EDrPnOxQ) | [GitHub-code](https://github.com/nxs5899/Recommender-System-LightFM)
+1. [FNN(FM+DNN)](./FNN)
+	- [基于深度学习的推荐(二)：基于FM初始化的FNN](https://mp.weixin.qq.com/s/rWK1NVO87Zt37AFvgpm4yw) | [GitHub](https://github.com/wyl6/Recommender-Systems-Samples/tree/master/RecSys%20And%20Deep%20Learning/DNN/fnn)
 
