@@ -21,4 +21,8 @@
 	- [How to Build a Scalable Recommender System for an e-commerce with LightFM in python](https://towardsdatascience.com/if-you-cant-measure-it-you-can-t-improve-it-5c059014faad) | [AI前线翻译](https://mp.weixin.qq.com/s/ss9UlDU9lYokS-EDrPnOxQ) | [GitHub-code](https://github.com/nxs5899/Recommender-System-LightFM)
 1. [FNN(FM+DNN)](./FNN)
 	- [基于深度学习的推荐(二)：基于FM初始化的FNN](https://mp.weixin.qq.com/s/rWK1NVO87Zt37AFvgpm4yw) | [GitHub](https://github.com/wyl6/Recommender-Systems-Samples/tree/master/RecSys%20And%20Deep%20Learning/DNN/fnn)
+1. [Wide & Deep](./Wide%20&%20Deep)
+	- 案例来源：《推荐系统算法实践》，黄美玲，第12章 Wide & Deep模型
+1. [Deep-Cross-Net](./Deep-Cross-Net)
+	- 案例来源：[FitzFan/Deep-Cross-Net](https://github.com/FitzFan/Deep-Cross-Net)
 
